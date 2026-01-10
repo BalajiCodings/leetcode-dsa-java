@@ -26,6 +26,7 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 | ------- |
 | [0031-next-permutation](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0141-linked-list-cycle) |
 ## Math
 |  |
@@ -38,6 +39,7 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 | [0053-maximum-subarray](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Divide and Conquer
@@ -55,4 +57,5 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 | ------- |
 | [0056-merge-intervals](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
