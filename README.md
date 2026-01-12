@@ -20,6 +20,7 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0169-majority-element) |
 ## Two Pointers
@@ -37,6 +38,7 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0056-merge-intervals) |
