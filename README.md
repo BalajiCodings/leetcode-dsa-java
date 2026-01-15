@@ -38,12 +38,14 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0048-rotate-image) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0073-set-matrix-zeroes) |
@@ -90,5 +92,6 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
