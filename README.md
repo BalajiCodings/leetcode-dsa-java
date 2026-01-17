@@ -60,11 +60,13 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 | [0169-majority-element](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0287-find-the-duplicate-number) |
+| [0912-sort-an-array](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -80,6 +82,7 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 | [0088-merge-sorted-array](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0229-majority-element-ii) |
+| [0912-sort-an-array](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0912-sort-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -102,4 +105,24 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0128-longest-consecutive-sequence) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
