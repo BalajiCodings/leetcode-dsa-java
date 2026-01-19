@@ -27,6 +27,7 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 | [0141-linked-list-cycle](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -60,6 +61,7 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 | [0169-majority-element](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
@@ -67,6 +69,7 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 | ------- |
 | [0053-maximum-subarray](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
@@ -84,6 +87,7 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 | [0088-merge-sorted-array](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0912-sort-an-array) |
 ## Binary Search
 |  |
@@ -99,6 +103,7 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 | ------- |
 | [0169-majority-element](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0347-top-k-frequent-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -111,6 +116,7 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -120,6 +126,7 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -141,4 +148,8 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0493-reverse-pairs) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
