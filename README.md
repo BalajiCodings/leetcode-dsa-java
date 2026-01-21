@@ -28,6 +28,7 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 | [0169-majority-element](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0347-top-k-frequent-elements) |
+| [0567-permutation-in-string](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0567-permutation-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,6 +39,7 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 | [0088-merge-sorted-array](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0141-linked-list-cycle) |
 | [0287-find-the-duplicate-number](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0287-find-the-duplicate-number) |
+| [0567-permutation-in-string](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0567-permutation-in-string) |
 ## Math
 |  |
 | ------- |
@@ -163,4 +165,12 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0042-trapping-rain-water) |
+## String
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0567-permutation-in-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
