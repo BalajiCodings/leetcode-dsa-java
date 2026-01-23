@@ -23,6 +23,7 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 | ------- |
 | [0001-two-sum](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0169-majority-element) |
@@ -170,9 +171,11 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0076-minimum-window-substring) |
 | [0567-permutation-in-string](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0567-permutation-in-string) |
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0076-minimum-window-substring) |
 | [0567-permutation-in-string](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
