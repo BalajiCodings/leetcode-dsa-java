@@ -65,6 +65,7 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 | [0128-longest-consecutive-sequence](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0493-reverse-pairs) |
@@ -124,6 +125,7 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0912-sort-an-array) |
 ## Merge Sort
@@ -177,5 +179,14 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0567-permutation-in-string) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
