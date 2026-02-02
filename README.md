@@ -71,6 +71,7 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 | [0347-top-k-frequent-elements](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
 |  |
@@ -105,6 +106,7 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 | [0287-find-the-duplicate-number](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0875-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
 | ------- |
