@@ -53,6 +53,7 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 | [0001-two-sum](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0053-maximum-subarray) |
@@ -102,6 +103,7 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0493-reverse-pairs) |
