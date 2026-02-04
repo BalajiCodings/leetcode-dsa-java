@@ -30,6 +30,7 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 | [0229-majority-element-ii](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0347-top-k-frequent-elements) |
 | [0567-permutation-in-string](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0567-permutation-in-string) |
+| [0981-time-based-key-value-store](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0981-time-based-key-value-store) |
 ## Two Pointers
 |  |
 | ------- |
@@ -109,6 +110,7 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 | [0493-reverse-pairs](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0875-koko-eating-bananas) |
+| [0981-time-based-key-value-store](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0981-time-based-key-value-store) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -181,6 +183,7 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 | ------- |
 | [0076-minimum-window-substring](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0076-minimum-window-substring) |
 | [0567-permutation-in-string](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0567-permutation-in-string) |
+| [0981-time-based-key-value-store](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0981-time-based-key-value-store) |
 ## Sliding Window
 |  |
 | ------- |
@@ -195,4 +198,8 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0239-sliding-window-maximum) |
+## Design
+|  |
+| ------- |
+| [0981-time-based-key-value-store](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0981-time-based-key-value-store) |
 <!---LeetCode Topics End-->
