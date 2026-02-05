@@ -52,6 +52,7 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0018-4sum](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0033-search-in-rotated-sorted-array) |
@@ -78,6 +79,7 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0347-top-k-frequent-elements) |
@@ -104,6 +106,7 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0287-find-the-duplicate-number) |
