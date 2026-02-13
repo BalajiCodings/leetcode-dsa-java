@@ -93,6 +93,7 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0118-pascals-triangle) |
@@ -191,6 +192,7 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0076-minimum-window-substring) |
 | [0567-permutation-in-string](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0981-time-based-key-value-store) |
@@ -215,6 +217,7 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0046-permutations) |
