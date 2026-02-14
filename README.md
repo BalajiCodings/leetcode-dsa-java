@@ -98,6 +98,7 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 | [0053-maximum-subarray](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0131-palindrome-partitioning) |
 ## Sorting
 |  |
 | ------- |
@@ -194,6 +195,7 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 | ------- |
 | [0022-generate-parentheses](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0076-minimum-window-substring) |
+| [0131-palindrome-partitioning](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0131-palindrome-partitioning) |
 | [0567-permutation-in-string](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0981-time-based-key-value-store) |
 ## Sliding Window
@@ -223,4 +225,5 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 | [0046-permutations](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
