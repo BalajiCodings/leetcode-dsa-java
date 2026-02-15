@@ -48,6 +48,7 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 | [0002-add-two-numbers](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0070-climbing-stairs) |
 ## Array
 |  |
 | ------- |
@@ -96,6 +97,7 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 | [0022-generate-parentheses](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0131-palindrome-partitioning) |
@@ -226,4 +228,8 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 | [0078-subsets](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0131-palindrome-partitioning) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
