@@ -80,6 +80,7 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 | [0347-top-k-frequent-elements](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0704-binary-search) |
+| [0746-min-cost-climbing-stairs](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
@@ -101,6 +102,7 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 | [0118-pascals-triangle](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0131-palindrome-partitioning) |
+| [0746-min-cost-climbing-stairs](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0746-min-cost-climbing-stairs) |
 ## Sorting
 |  |
 | ------- |
