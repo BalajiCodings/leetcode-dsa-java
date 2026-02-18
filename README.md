@@ -34,6 +34,7 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0005-longest-palindromic-substring) |
 | [0018-4sum](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0042-trapping-rain-water) |
@@ -96,6 +97,7 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0053-maximum-subarray) |
@@ -199,6 +201,7 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0131-palindrome-partitioning) |
