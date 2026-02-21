@@ -50,6 +50,7 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 | [0048-rotate-image](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0070-climbing-stairs) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Array
 |  |
 | ------- |
@@ -85,6 +86,7 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 | [0746-min-cost-climbing-stairs](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0912-sort-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -239,4 +241,8 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0070-climbing-stairs) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
