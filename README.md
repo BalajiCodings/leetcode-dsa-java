@@ -77,6 +77,7 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0287-find-the-duplicate-number) |
@@ -108,6 +109,7 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0213-house-robber-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/1143-longest-common-subsequence) |
 ## Sorting
