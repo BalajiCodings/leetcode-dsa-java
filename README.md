@@ -65,6 +65,7 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 | [0046-permutations](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0075-sort-colors) |
@@ -150,6 +151,7 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0073-set-matrix-zeroes) |
 ## Union-Find
 |  |
@@ -249,4 +251,8 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
