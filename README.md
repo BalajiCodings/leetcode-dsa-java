@@ -114,6 +114,7 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 | [0131-palindrome-partitioning](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0213-house-robber-ii) |
+| [0338-counting-bits](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0338-counting-bits) |
 | [0746-min-cost-climbing-stairs](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/1143-longest-common-subsequence) |
 ## Sorting
@@ -147,6 +148,7 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 | [0136-single-number](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0338-counting-bits) |
 ## Counting
 |  |
 | ------- |
