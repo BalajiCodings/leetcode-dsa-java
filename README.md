@@ -50,6 +50,7 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 | [0048-rotate-image](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0070-climbing-stairs) |
+| [0371-sum-of-two-integers](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0371-sum-of-two-integers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Array
 |  |
@@ -151,6 +152,7 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 | [0191-number-of-1-bits](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0338-counting-bits) |
+| [0371-sum-of-two-integers](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0371-sum-of-two-integers) |
 ## Counting
 |  |
 | ------- |
