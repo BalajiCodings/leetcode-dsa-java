@@ -27,6 +27,7 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 | [0128-longest-consecutive-sequence](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0347-top-k-frequent-elements) |
 | [0567-permutation-in-string](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0567-permutation-in-string) |
@@ -41,6 +42,7 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 | [0075-sort-colors](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0287-find-the-duplicate-number) |
 | [0567-permutation-in-string](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0567-permutation-in-string) |
 ## Math
@@ -50,6 +52,7 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 | [0048-rotate-image](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0202-happy-number) |
 | [0371-sum-of-two-integers](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0371-sum-of-two-integers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Array
