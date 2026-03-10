@@ -51,6 +51,7 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 | [0002-add-two-numbers](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0202-happy-number) |
 | [0371-sum-of-two-integers](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0371-sum-of-two-integers) |
@@ -71,6 +72,7 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 | [0053-maximum-subarray](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0075-sort-colors) |
