@@ -49,6 +49,7 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0002-add-two-numbers) |
+| [0043-multiply-strings](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0066-plus-one) |
@@ -228,6 +229,7 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0022-generate-parentheses) |
+| [0043-multiply-strings](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0043-multiply-strings) |
 | [0076-minimum-window-substring](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0131-palindrome-partitioning) |
 | [0567-permutation-in-string](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0567-permutation-in-string) |
@@ -272,5 +274,6 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
