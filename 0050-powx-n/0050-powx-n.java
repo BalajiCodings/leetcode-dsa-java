@@ -11,13 +11,18 @@ class Solution {
     }
 
     private double pow(double x, long N) {
-        if(N == 0) return 1.0;
-        if(N == 1) return x;
+        double result = 1;
 
-        if(N % 2 == 0) {
-            return pow(x * x, N/2);
+        while(N > 0) {
+
+            if((N & 1) == 1) {
+                result *= x;
+            }
+
+            x *= x;
+            N /= 2;
         }
 
-        return x * pow(x, N - 1);
+        return result;
     }
 }
