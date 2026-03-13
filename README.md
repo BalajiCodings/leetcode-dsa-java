@@ -11,6 +11,7 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 | [0141-linked-list-cycle](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0328-odd-even-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
@@ -56,6 +57,7 @@ Structured solutions to LeetCode problems in Java, focusing on DSA patterns, opt
 | [0070-climbing-stairs](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0202-happy-number) |
 | [0371-sum-of-two-integers](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/0371-sum-of-two-integers) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/BalajiCodings/leetcode-dsa-java/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Array
 |  |
